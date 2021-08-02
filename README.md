@@ -2,7 +2,7 @@
 
 - 📘 3º ano Ensino médio
 - 🌱 Estou me aprofundando em JavaScript
-- 📫 Contato: caio.rs@gmail.com
+- 📫 Contato: caiors.contato@gmail.com
 - 😄 Pronomes: ele/dele
 
  <div>

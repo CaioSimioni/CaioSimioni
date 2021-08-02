@@ -12,8 +12,7 @@
 </div>
   
 
-<div style="display: inline_block"><br>
-  <i class="devicon-java-plain-wordmark"></i>
+<div style="display: inline-block;">
   <img align="center" alt="Caio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg">
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
@@ -21,4 +20,5 @@
   <img align="center" alt="Caio-JS" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Caio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Caio-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg">
+  <img alt="Hi-5" align="right" height="100" width="100" src="https://media.giphy.com/media/5qFqDz7KYlHFX3tDhf/giphy.gif">
 </div>

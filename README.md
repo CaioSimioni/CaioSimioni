@@ -1,10 +1,5 @@
 ### Olá, Sou Caio Ribeiro Simioni 👋😀
 
-- 📘 3º ano Ensino médio
-- 🌱 Estou me aprofundando em JavaScript
-- 📫 Contato: caioribeirosimioni@hotmail.com
-- 😄 Pronomes: ele/dele
-
  <div>
   <a href="https://github.com/caiosimioni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiosimioni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

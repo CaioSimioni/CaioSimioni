@@ -12,7 +12,7 @@
 </div>
   
 
-<div style="display: inline-block;">
+<div style="display: inline-block;"><br>
   <img align="center" alt="Caio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg">
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">

@@ -16,6 +16,6 @@
   <img align="center" alt="Caio-JS" height="50" width="60" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Caio-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Caio-MySQL" height="50" width="60" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg">
-  <img alt="Hi-5" align="right" height="100" width="100" src="https://media.giphy.com/media/5qFqDz7KYlHFX3tDhf/giphy.gif">
+  <img alt="Hi-5" align="right" height="200" width="230" src="https://i.redd.it/rkjpd13vse961.gif">
 </div>
 

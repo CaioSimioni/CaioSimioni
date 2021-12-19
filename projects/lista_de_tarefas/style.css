@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Roboto, sans-serif;
+    color: #333333;
+}
+
+body {
+    background: #edf0f2;
+}
+
+h1, h2{
+    text-transform: uppercase;
+}
+
+.app{
+    background: #fff;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 5px 0px rgba(51, 51, 51, 0.301);
+}
+
+.form form input{
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 250px;
+}
+
+.form form button{
+    background: #2a5f23;
+    padding: 8px 12px;
+    font-size: 16px;
+    color: #fff;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.tarefas{
+    margin: 20px 0;
+}
+
+.tarefas ul{
+    list-style: none;
+    margin-top: 10px;
+}
+
+.tarefas ul li{
+    margin: 15px 5px;
+    align-items: center;
+}
+
+.tarefas ul li span{
+    font-size: 1.3rem;
+    margin-right: 10px;
+}
+
+.tarefas ul li button{
+    background: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #ad2828;
+    border: 0;
+    cursor: pointer;
+}

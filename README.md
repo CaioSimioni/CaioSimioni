@@ -10,12 +10,12 @@ Sou Brasileiro do interior de São Paulo, Programador, formato em Técnico de De
   <img align="center" alt="Caio-MySQL" height="50" width="60" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Caio-HTML" height="50" width="60" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Caio-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Caio-JS" height="50" width="60" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg">
  </div>
  
   ### Aprendendo
   <div>
-   <img align="center" alt="Caio-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Caio-Python" height="50" width="60" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg">
   </div>
 

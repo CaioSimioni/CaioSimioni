@@ -1,5 +1,5 @@
 ## Olá, Sou Caio Ribeiro Simioni 👋😀
-Sou Brasileiro do interior de São Paulo, Programador, formato em Técnico de Desenvolvimento de Sistemas pela ETEC Centro Paula Souza, atualmente desempregado.  Fique a vontade para falar comigo através das minhas redes sociais.
+Sou Brasileiro do interior de São Paulo, Militar Ativa, formato Técnico de Desenvolvimento de Sistemas pela ETEC, atualmente cursando Bacharelado em Tecnologia da Informação pela UNIVESP.
 
   <a href = "mailto:caio.simioni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 

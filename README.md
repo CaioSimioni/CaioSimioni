@@ -5,6 +5,7 @@ Sou um profissional focado em Análise e Desenvolvimento de Sistemas e Gestão d
 🚀 Habilidades e Tecnologias
 
 Linguagens de Programação:
+  <img src="https://img.shields.io/badge/Rust-DE3C14?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
